@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blogs ✦ Parii</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="logo">
+      <span class="logo-mark">✦</span> Parii
+    </div>
+
+    <nav class="navbar">
+      <a href="index.html">Home</a>
+      <a href="blog.html" class="active">Blog</a>
+      <a href="poems.html">Poems</a>
+      <a href="reports.html">Reports</a>
+    </nav>
+  </header>
+
+  <main class="section">
+    <div class="section-title-row">
+      <h2>Blog Archive</h2>
+      <p class="section-subtitle">Essays, reflections, study notes.</p>
+    </div>
+
+    <div class="card-grid">
+      <a class="card" href="post1.html">
+        <p class="card-date">April 2026</p>
+        <h3>On Discipline and Becoming</h3>
+        <p class="card-text">
+          The first blog x
+        </p>
+        <span class="card-link">Read →</span>
+      </a>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <p>© 2026 Pari Singhal ✦ Blog Archive</p>
+  </footer>
+
+</body>
+</html>
