@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #ffc1d6;
+  color: black;
+}
+
+/* NAV BAR */
+.nav {
+  background-color: black;
+  color: pink;
+  padding: 15px;
+}
+
+.nav a {
+  color: #ffb6c1;
+  margin: 10px;
+  text-decoration: none;
+}
+
+/* HERO */
+.hero {
+  text-align: center;
+  padding: 60px;
+  background-size: cover;
+  color: white;
+}
+
+/* SECTION */
+.section {
+  padding: 30px;
+}
+
+/* CARDS */
+.card {
+  background: white;
+  padding: 20px;
+  margin: 10px;
+  display: inline-block;
+  border-radius: 15px;
+  box-shadow: 0 0 10px pink;
+}
